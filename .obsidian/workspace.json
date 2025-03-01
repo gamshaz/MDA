@@ -11,17 +11,30 @@
             "id": "a3dff64f4eefbb8b",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4-Government/Canada/GDP 4Q2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GDP 4Q2024"
+            }
+          },
+          {
+            "id": "9be8a228187d2d68",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/GDP 3QFY25 (Q4 2024).md",
+                "file": "Summaries/GDP 4Q2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDP 3QFY25 (Q4 2024)"
+              "title": "GDP 4Q2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +179,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3dff64f4eefbb8b",
+  "active": "9be8a228187d2d68",
   "lastOpenFiles": [
-    "4-Government/India/GDP 3QFY25 (Q4 2024).pdf",
+    "4-Government/Canada/GDP 4Q2024.pdf",
+    "Summaries/GDP 4Q2024.md",
     "Summaries/GDP 3QFY25 (Q4 2024).md",
+    "4-Government/Canada/GDP 4Q2024.pdf.opdownload",
+    "4-Government/Canada",
+    "4-Government/New folder",
+    "4-Government/India/GDP 3QFY25 (Q4 2024).pdf",
     "3-Central-Bank/BoE/2025/monetary-policy-summary-and-minutes-february-2025.pdf",
     "Summaries/monetary-policy-summary-and-minutes-february-2025.md",
     "Summaries/ir-liquidity-review-2024.md",
@@ -185,14 +203,9 @@
     "3-Central-Bank/ECB/EA outlook and monetary policy - Philip Lane (Jan 2025).pdf",
     "2-Research-Reports/Misc/ir-liquidity-review-2024.pdf",
     "Summaries/Numera Analytics - Top Conviction Calls - W052025.md",
-    "2-Research-Reports/Numera Analytics/2025/Top Conviction Calls/Numera Analytics - Top Conviction Calls - W052025.pdf",
-    "2-Research-Reports/Numera Analytics/2025/Top Conviction Calls/Numera Analytics - Top Conviction Calls - W062025.pdf",
     "Summaries/Numera Percentage Play - Inflation hedging.md",
     "Summaries/Numera Percentage Play - Long aluminium.md",
-    "2-Research-Reports/Numera Analytics/2025/Percentage Play/Numera Percentage Play - Inflation hedging.pdf",
     "Summaries/20250130_HigherRatesStockSelection-1.md",
-    "2-Research-Reports/Francois Trahan/2025/20250130_HigherRatesStockSelection-1.pdf",
-    "2-Research-Reports/ISS EVA/2025/Quarterly Recaps/Quarterly-RECAP-(4Q-2024).pdf",
     "Summaries/BoJ minutes Dec '24 meeting.md",
     "Summaries/Pre-Budget Economic Survey 2024-25.md",
     "Summaries/budget_at_a_glance.md",
@@ -202,7 +215,6 @@
     "Summaries/Euro Area Monthly Macro and Policy Chartbook - Jan '25.md",
     "Summaries/Naoki Tamura - Feb 6.md",
     "Summaries/BoJ Summary of Opinions - Jan '25 meeting.md",
-    "Summaries/U.S.-productivity-growth-moderates,-but-trend-still-strong.md",
-    "Summaries/Is-Fed-policy-meaningfully-restrictive_.md"
+    "Summaries/U.S.-productivity-growth-moderates,-but-trend-still-strong.md"
   ]
 }
