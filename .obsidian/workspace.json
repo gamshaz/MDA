@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28188a126f595e3e",
+            "id": "a3dff64f4eefbb8b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3-Central-Bank/BoE/2025/monetary-policy-summary-and-minutes-february-2025.pdf"
+                "file": "Summaries/GDP 3QFY25 (Q4 2024).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "monetary-policy-summary-and-minutes-february-2025"
+              "icon": "lucide-file",
+              "title": "GDP 3QFY25 (Q4 2024)"
             }
           }
         ]
@@ -161,12 +163,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "28188a126f595e3e",
+  "active": "a3dff64f4eefbb8b",
   "lastOpenFiles": [
+    "4-Government/India/GDP 3QFY25 (Q4 2024).pdf",
+    "Summaries/GDP 3QFY25 (Q4 2024).md",
+    "3-Central-Bank/BoE/2025/monetary-policy-summary-and-minutes-february-2025.pdf",
     "Summaries/monetary-policy-summary-and-minutes-february-2025.md",
     "Summaries/ir-liquidity-review-2024.md",
     "Summaries/nfp jan 2025.md",
@@ -190,7 +194,6 @@
     "2-Research-Reports/Francois Trahan/2025/20250130_HigherRatesStockSelection-1.pdf",
     "2-Research-Reports/ISS EVA/2025/Quarterly Recaps/Quarterly-RECAP-(4Q-2024).pdf",
     "Summaries/BoJ minutes Dec '24 meeting.md",
-    "3-Central-Bank/BoJ/2025/Outlook for Economic Activity & Prices - Jan 24.pdf",
     "Summaries/Pre-Budget Economic Survey 2024-25.md",
     "Summaries/budget_at_a_glance.md",
     "Summaries/Numera Analytics - US Equity Sector Strategy - January 2025.md",
@@ -200,8 +203,6 @@
     "Summaries/Naoki Tamura - Feb 6.md",
     "Summaries/BoJ Summary of Opinions - Jan '25 meeting.md",
     "Summaries/U.S.-productivity-growth-moderates,-but-trend-still-strong.md",
-    "Summaries/Is-Fed-policy-meaningfully-restrictive_.md",
-    "Summaries/202502XX_Housing_VB-1.md",
-    "Summaries/20250220_Inflation_VB.md"
+    "Summaries/Is-Fed-policy-meaningfully-restrictive_.md"
   ]
 }
