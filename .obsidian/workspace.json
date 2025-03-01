@@ -4,33 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "fd935907a0c6e733",
+        "id": "48017ce74e6a317c",
         "type": "tabs",
         "children": [
           {
-            "id": "a3dff64f4eefbb8b",
+            "id": "62c311d6bed7197e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "4-Government/Canada/GDP 4Q2024.pdf"
+                "file": "4-Government/U.S/2025/PCE/pce jan 2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "GDP 4Q2024"
+              "title": "pce jan 2025"
             }
           },
           {
-            "id": "9be8a228187d2d68",
+            "id": "0a99a2667b1f81ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/GDP 4Q2024.md",
+                "file": "Summaries/pce jan 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDP 4Q2024"
+              "title": "pce jan 2025"
             }
           }
         ],
@@ -179,16 +179,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9be8a228187d2d68",
+  "active": "0a99a2667b1f81ad",
   "lastOpenFiles": [
-    "4-Government/Canada/GDP 4Q2024.pdf",
+    "4-Government/U.S/2025/PCE/pce jan 2025.pdf",
+    "Summaries/pce jan 2025.md",
+    "Summaries/gdp4q24-2nd.md",
+    "4-Government/U.S/2025/PCE/ce jan 2025.pdf",
+    "4-Government/U.S/2025/PCE",
+    "4-Government/U.S/2025/New folder",
+    "Summaries/cpi jan.md",
+    "Summaries/ppi jan.md",
+    "4-Government/U.S/2025/PPI/ppi jan.pdf",
+    "4-Government/U.S/2025/CPI/cpi jan.pdf",
     "Summaries/GDP 4Q2024.md",
+    "4-Government/Canada/GDP 4Q2024.pdf",
     "Summaries/GDP 3QFY25 (Q4 2024).md",
     "4-Government/Canada/GDP 4Q2024.pdf.opdownload",
     "4-Government/Canada",
     "4-Government/New folder",
-    "4-Government/India/GDP 3QFY25 (Q4 2024).pdf",
-    "3-Central-Bank/BoE/2025/monetary-policy-summary-and-minutes-february-2025.pdf",
     "Summaries/monetary-policy-summary-and-minutes-february-2025.md",
     "Summaries/ir-liquidity-review-2024.md",
     "Summaries/nfp jan 2025.md",
@@ -196,12 +204,8 @@
     "Summaries/RESULTS Alpine_Macro_Investment_Survey - Feb25.md",
     "Summaries/Outlook for Economic Activity & Prices - Jan 24.md",
     "Summaries/FLASH-NOTE-–-BOJ-HIKES,-HAWKISH-ENOUGH-TO-SHORE-UP-YEN-BUT-NOT-HAWKISH-ENOUGH-TO-GENERATE-A-SHOCK.md",
-    "2-Research-Reports/Evercore ISI/2025/Flash Notes/FLASH-NOTE-–-BOJ-HIKES,-HAWKISH-ENOUGH-TO-SHORE-UP-YEN-BUT-NOT-HAWKISH-ENOUGH-TO-GENERATE-A-SHOCK.pdf",
     "Summaries/Currency_Hedging_A_No_Nonsense_Guide.md",
-    "2-Research-Reports/Alpine Macro/2025/Global Asset Allocation/Currency_Hedging_A_No_Nonsense_Guide.pdf",
     "Summaries/EA outlook and monetary policy - Philip Lane (Jan 2025).md",
-    "3-Central-Bank/ECB/EA outlook and monetary policy - Philip Lane (Jan 2025).pdf",
-    "2-Research-Reports/Misc/ir-liquidity-review-2024.pdf",
     "Summaries/Numera Analytics - Top Conviction Calls - W052025.md",
     "Summaries/Numera Percentage Play - Inflation hedging.md",
     "Summaries/Numera Percentage Play - Long aluminium.md",
@@ -211,10 +215,6 @@
     "Summaries/budget_at_a_glance.md",
     "Summaries/Numera Analytics - US Equity Sector Strategy - January 2025.md",
     "budget_at_a_glance'.pdf.md",
-    "Summaries/US Monthly Macro and Policy Chartbook - Jan '25.md",
-    "Summaries/Euro Area Monthly Macro and Policy Chartbook - Jan '25.md",
-    "Summaries/Naoki Tamura - Feb 6.md",
-    "Summaries/BoJ Summary of Opinions - Jan '25 meeting.md",
-    "Summaries/U.S.-productivity-growth-moderates,-but-trend-still-strong.md"
+    "Summaries/US Monthly Macro and Policy Chartbook - Jan '25.md"
   ]
 }
