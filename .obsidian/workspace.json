@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f3d61dd52f60b0a7",
+        "id": "fd935907a0c6e733",
         "type": "tabs",
         "children": [
           {
-            "id": "294ee4897d03fb98",
+            "id": "28188a126f595e3e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Research-Reports/Alpine Macro/2025/Equity Strategy/Heres_The_Deal_In_Retail.pdf"
+                "file": "3-Central-Bank/BoE/2025/monetary-policy-summary-and-minutes-february-2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Heres_The_Deal_In_Retail"
+              "title": "monetary-policy-summary-and-minutes-february-2025"
             }
           }
         ]
@@ -161,22 +161,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "294ee4897d03fb98",
+  "active": "28188a126f595e3e",
   "lastOpenFiles": [
-    "Research-Reports/Alpine Macro/2024/Special Reports/Why_Are_We_Still_Bullish.pdf",
-    "Research-Papers/Riba - is there ijma on it_ Farooq, M.O..pdf",
-    "Research-Papers/2023 Long-Term Capital - JP Morgan Asset Management.pdf",
-    "2025-02-28.md",
-    "The_400_Investment_Banking_Interview_Que.pdf",
-    "Books/The_400_Investment_Banking_Interview_Que.pdf",
-    "~$INTERNET.xlsx",
-    "MashooqCV_StockGro_CMO.pdf",
-    "MashooqCV_.pdf",
-    "IB_LLC_4Q23_Aud_Finls.pdf",
-    "AmaanLOR.pdf",
-    "Research-Papers/Real Estate Primer.pdf"
+    "Summaries/monetary-policy-summary-and-minutes-february-2025.md",
+    "Summaries/ir-liquidity-review-2024.md",
+    "Summaries/nfp jan 2025.md",
+    "Summaries/Quarterly-RECAP-(4Q-2024).md",
+    "Summaries/RESULTS Alpine_Macro_Investment_Survey - Feb25.md",
+    "Summaries/Outlook for Economic Activity & Prices - Jan 24.md",
+    "Summaries/FLASH-NOTE-–-BOJ-HIKES,-HAWKISH-ENOUGH-TO-SHORE-UP-YEN-BUT-NOT-HAWKISH-ENOUGH-TO-GENERATE-A-SHOCK.md",
+    "2-Research-Reports/Evercore ISI/2025/Flash Notes/FLASH-NOTE-–-BOJ-HIKES,-HAWKISH-ENOUGH-TO-SHORE-UP-YEN-BUT-NOT-HAWKISH-ENOUGH-TO-GENERATE-A-SHOCK.pdf",
+    "Summaries/Currency_Hedging_A_No_Nonsense_Guide.md",
+    "2-Research-Reports/Alpine Macro/2025/Global Asset Allocation/Currency_Hedging_A_No_Nonsense_Guide.pdf",
+    "Summaries/EA outlook and monetary policy - Philip Lane (Jan 2025).md",
+    "3-Central-Bank/ECB/EA outlook and monetary policy - Philip Lane (Jan 2025).pdf",
+    "2-Research-Reports/Misc/ir-liquidity-review-2024.pdf",
+    "Summaries/Numera Analytics - Top Conviction Calls - W052025.md",
+    "2-Research-Reports/Numera Analytics/2025/Top Conviction Calls/Numera Analytics - Top Conviction Calls - W052025.pdf",
+    "2-Research-Reports/Numera Analytics/2025/Top Conviction Calls/Numera Analytics - Top Conviction Calls - W062025.pdf",
+    "Summaries/Numera Percentage Play - Inflation hedging.md",
+    "Summaries/Numera Percentage Play - Long aluminium.md",
+    "2-Research-Reports/Numera Analytics/2025/Percentage Play/Numera Percentage Play - Inflation hedging.pdf",
+    "Summaries/20250130_HigherRatesStockSelection-1.md",
+    "2-Research-Reports/Francois Trahan/2025/20250130_HigherRatesStockSelection-1.pdf",
+    "2-Research-Reports/ISS EVA/2025/Quarterly Recaps/Quarterly-RECAP-(4Q-2024).pdf",
+    "Summaries/BoJ minutes Dec '24 meeting.md",
+    "3-Central-Bank/BoJ/2025/Outlook for Economic Activity & Prices - Jan 24.pdf",
+    "Summaries/Pre-Budget Economic Survey 2024-25.md",
+    "Summaries/budget_at_a_glance.md",
+    "Summaries/Numera Analytics - US Equity Sector Strategy - January 2025.md",
+    "budget_at_a_glance'.pdf.md",
+    "Summaries/US Monthly Macro and Policy Chartbook - Jan '25.md",
+    "Summaries/Euro Area Monthly Macro and Policy Chartbook - Jan '25.md",
+    "Summaries/Naoki Tamura - Feb 6.md",
+    "Summaries/BoJ Summary of Opinions - Jan '25 meeting.md",
+    "Summaries/U.S.-productivity-growth-moderates,-but-trend-still-strong.md",
+    "Summaries/Is-Fed-policy-meaningfully-restrictive_.md",
+    "Summaries/202502XX_Housing_VB-1.md",
+    "Summaries/20250220_Inflation_VB.md"
   ]
 }
